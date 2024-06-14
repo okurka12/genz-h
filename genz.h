@@ -4,9 +4,13 @@
 #include <stdbool.h>
 #include <stdio.h>
 
-/* return 0 */
+/* return 0, 1 */
 #define peace return
 #define out 0;
+#define skibidi return
+#define toilet 1;
+#define skedaddle return
+#define yeet return
 
 /* fr no cap (boolean expressions) */
 #define fr true
@@ -44,10 +48,12 @@
 #define number int
 #define facts bool
 #define fax facts
+#define solid const
 
 /* library functions */
 #define shout printf
 #define peep scanf
+#define scream fprintf
 
 
 #endif  // ifndef _G_E_N_Z_
