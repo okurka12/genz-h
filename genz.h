@@ -13,7 +13,7 @@
 #define yeet return
 
 /* fr no cap (boolean expressions) */
-#define fr true
+#define fr true  // short for "for real"
 #define cap false
 #define no !
 
@@ -41,7 +41,7 @@
 #define legit ;
 
 /* adresses */
-#define addy &
+#define addy &  // short for address
 #define spot &
 
 /* data types */
